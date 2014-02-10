@@ -29,3 +29,7 @@ h1.logo {
   margin-top: 25px;
   margin-left: 20px;
 }
+
+thumb {
+  max-width: 10px;
+}
